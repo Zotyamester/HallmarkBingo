@@ -4,5 +4,6 @@ A bingo generator for Hallmark's Christmas movies. 🎄
 ## Run
 `python bingo.py`
 
-## Screenshot
-![screenshot](screenshot.png)
+## Screenshots
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
