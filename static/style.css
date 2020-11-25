@@ -1,5 +1,4 @@
 body {
-    min-width: fit-content;
     min-height: 100%;
     text-align: center;
     background-color: #ba0020;
@@ -66,5 +65,5 @@ td .content {
     word-break: normal;
     overflow: hidden;
     font-family: 'Comic Sans MS', cursive, sans-serif;
-    font-size: min(1.9vw, 109%);
+    font-size: min(1.95vw, 109.5%);
 }
