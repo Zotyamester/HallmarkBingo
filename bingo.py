@@ -18,4 +18,4 @@ def bingo():
     mat = rand_mat(5)
     return render_template('index.html', mat=mat)
 
-app.run()
+app.run(host='0.0.0.0', port=6969)
